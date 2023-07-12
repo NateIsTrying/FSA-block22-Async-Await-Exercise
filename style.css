@@ -1,0 +1,14 @@
+body {
+    background-image: url('./img/globe.jpg');
+    background-size: cover;
+    font-family: 'Ysabeau SC', sans-serif;
+    margin-left: 6%;
+}
+
+h2 {
+    padding-top: 15px;
+}
+
+.flag {
+    width: 65%;
+}
